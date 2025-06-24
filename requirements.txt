@@ -2,3 +2,4 @@ Flask==3.0.3
 flask_cors
 requests
 loguru
+beautifulsoup4==4.12.3
